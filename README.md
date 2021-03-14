@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yanelamantovani
+- 👀 I’m interested in web development.
+- 🌱 I’m currently studying Computer Applications Development at Universidad Nacional del Centro (Buenos Aires, Argentina).
+- 💞️ I’m looking for my first work experience in IT.
+- 📫 How to reach me: yanelamantovani@icloud.com
