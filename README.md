@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @yanelamantovani
-- 👀 I’m interested in web development.
+- 💻 I’m interested in web development.
 - 🌱 I’m currently studying Computer Applications Development at Universidad Nacional del Centro (Buenos Aires, Argentina).
-- 💞️ I’m looking for my first work experience in IT.
-- 📫 How to reach me: yanelamantovani@icloud.com
+- 🤓 I'm also taking a Java Full Stack Bootcamp organized by G&L Group and ICBC Bank.
+- 🔎 I’m looking for my first work experience in IT.
+- 📫 How to reach me: yanelamantovani@icloud.com or at www.linkedin.com/in/yanelamantovani
