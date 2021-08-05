@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yanelamantovani
-- 💻 I’m interested in web development.
+- 💻 I’m interested in software development.
 - 🌱 I’m currently studying Computer Applications Development at Universidad Nacional del Centro (Buenos Aires, Argentina).
 - 🤓 I'm also taking a Java Full Stack Bootcamp organized by G&L Group and ICBC Bank.
 - 🔎 I’m looking for my first work experience in IT.
