@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @yanelamantovani
-- 💻 I’m interested in software development.
-- 🌱 I’m currently studying Computer Applications Development at Universidad Nacional del Centro (Buenos Aires, Argentina).
-- 🤓 I'm also taking a Java Full Stack Bootcamp organized by G&L Group and ICBC Bank.
-- 🔎 I’m looking for my first work experience in IT.
+- 💻 I’m interested in software development, particularly in backend web development with Java.
+- 🤓 I’m currently studying Computer Applications Development at Universidad Nacional del Centro (Buenos Aires, Argentina).
+- 👩‍🎓 I graduated from the Java Full Stack Bootcamp (Egg Academy) organized by G&L Group and ICBC Bank.
+- 🚀 I’m looking for my first work experience in IT.
+- 🔎 I encourage you to look at my projects!
 - 📫 How to reach me: yanelamantovani@icloud.com or at www.linkedin.com/in/yanelamantovani
